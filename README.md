@@ -88,3 +88,9 @@ Advanced formatting and document versioning.
 Support for multimedia content (images, videos).
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9736de69-e124-4c60-8e2d-f989e036c275)
+
+![Image](https://github.com/user-attachments/assets/0420bb57-7938-4a73-a36d-3f412b732fb9)
+
+![Image](https://github.com/user-attachments/assets/799336a1-2c83-4672-a583-112a98d52b31)
